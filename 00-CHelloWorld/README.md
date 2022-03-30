@@ -1,0 +1,1 @@
+Compilador usado: gcc (Rev6, Built by MSYS2 project) 11.2.0c
